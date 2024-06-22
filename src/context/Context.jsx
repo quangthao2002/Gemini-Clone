@@ -68,7 +68,6 @@ const ContextProvider = (props) => {
     setResultData,
     onSent,
     newChat,
-    dataComplete,
   };
 
   return (
