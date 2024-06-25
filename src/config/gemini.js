@@ -16,7 +16,7 @@ import {
 
 // const apiKey = import.meta.API_KEY;
 // console.log(apiKey);
-const apiKey = "AIzaSyBYEO0Gdi5ADkWsu3MaAZJv0WjZvBMlkrY";
+const apiKey = "AIzaSyDNz4blQvfRxOAB3mILhBNdovaWpiSq71o";
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
